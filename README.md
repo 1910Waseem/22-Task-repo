@@ -23,4 +23,4 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 ```bash
 # Example installation command
 npm install my-package-name
-.
+
